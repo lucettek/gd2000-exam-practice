@@ -25,5 +25,4 @@
 
 ## My rule
 
-Add one rule of your own here, and say what it does. A sentence or two is
-plenty.
+You can only use the "Hollow King" card once, so you have to make it count.
